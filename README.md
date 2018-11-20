@@ -8,4 +8,5 @@ The above stated entities must have to be provided by the user. <br>
 
 The expression that has been used insted of eucledian method is :- d = (1+ (k + phi)) / e
 
-Result:- 'd' and the value of k at which we get integer value of d in the expression.
+Result:- 'd' and the value of k at which we get integer value of d in the expression.<br>
+'Where d is the required private key'
